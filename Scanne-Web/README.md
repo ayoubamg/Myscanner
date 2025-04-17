@@ -17,7 +17,7 @@ Simple, fast, and effective for pentesters and developers.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/votre-nom-utilisateur/myscanner.git
+   git clone https://github.com/ayoubamg/myscanner.git
    cd myscanner
    ```
 
