@@ -5,7 +5,7 @@ Simple, fast, and effective for pentesters and developers.
 
 ## 🖼️ Screenshot
 
-![Myscanner Screenshot](./myscanner_screenshot.png)
+![salam](./apps/screen.png)
 
 ## 🛠️ Features
 
